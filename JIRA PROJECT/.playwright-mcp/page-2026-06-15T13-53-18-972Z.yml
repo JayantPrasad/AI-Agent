@@ -1,0 +1,424 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - img "Make My Trip" [ref=e8] [cursor=pointer]
+      - list [ref=e9]:
+        - listitem [ref=e10] [cursor=pointer]:
+          - generic [ref=e13]:
+            - paragraph [ref=e14]: List Your Property
+            - paragraph [ref=e15]: Grow your business!
+        - listitem [ref=e16] [cursor=pointer]:
+          - img "myBizLogo" [ref=e18]
+          - generic [ref=e19]:
+            - paragraph [ref=e20]: Introducing myBiz
+            - paragraph [ref=e21]: Business Travel Solution
+        - listitem [ref=e22] [cursor=pointer]:
+          - generic [ref=e25]:
+            - paragraph [ref=e26]: My Trips
+            - paragraph [ref=e27]: Manage your bookings
+        - listitem [ref=e28] [cursor=pointer]:
+          - generic "Wishlist" [ref=e30]
+          - generic [ref=e31]:
+            - paragraph [ref=e32]: Wishlist
+            - paragraph [ref=e33]: Save favourites
+        - listitem [ref=e34] [cursor=pointer]:
+          - paragraph [ref=e39]: Login or Create Account
+        - listitem [ref=e40] [cursor=pointer]:
+          - generic [ref=e41]:
+            - generic [ref=e43]: INR
+            - text: "|"
+            - generic [ref=e44]: English
+    - navigation [ref=e48]:
+      - list [ref=e49]:
+        - listitem [ref=e50]:
+          - link "Flights" [ref=e52] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/flights/
+            - generic [ref=e55]: Flights
+        - listitem [ref=e56]:
+          - link "Hotels" [ref=e58] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/hotels/
+            - generic [ref=e61]: Hotels
+        - listitem [ref=e62]:
+          - link "Villas & Homestays" [ref=e64] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/homestays/
+            - generic [ref=e67]: Villas & Homestays
+        - listitem [ref=e68]:
+          - link "Holiday Packages" [ref=e70] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/holidays-india/
+            - generic [ref=e73]: Holiday Packages
+        - listitem [ref=e74]:
+          - link "Trains" [ref=e76] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/railways/
+            - generic [ref=e79]: Trains
+        - listitem [ref=e80]:
+          - link "Buses" [ref=e82] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/bus-tickets/
+            - generic [ref=e85]: Buses
+        - listitem [ref=e86]:
+          - link "Cabs" [ref=e88] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/cabs/
+            - generic [ref=e91]: Cabs
+        - listitem [ref=e92]:
+          - link "Tours & Attractions" [ref=e94] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/toursandattractions/
+            - generic [ref=e97]: Tours & Attractions
+        - listitem [ref=e98]:
+          - link "Visa" [ref=e100] [cursor=pointer]:
+            - /url: https://visa.makemytrip.com/
+            - generic [ref=e103]: Visa
+        - listitem [ref=e104]:
+          - link "Cruise" [ref=e106] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/cruise/
+            - generic [ref=e109]: Cruise
+          - generic [ref=e110]: new
+        - listitem [ref=e111]:
+          - link "Forex Card & Currency" [ref=e113] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/forex/
+            - generic [ref=e116]: Forex Card & Currency
+        - listitem [ref=e117]:
+          - link "Travel Insurance" [ref=e119] [cursor=pointer]:
+            - /url: https://www.makemytrip.com/travel-insurance/
+            - generic [ref=e122]: Travel Insurance
+  - contentinfo [ref=e125]:
+    - generic [ref=e127]:
+      - paragraph [ref=e128]: MakeMyTrip
+      - list [ref=e129]:
+        - listitem [ref=e130]: About Us,
+        - listitem [ref=e131]: Investor Relations,
+        - listitem [ref=e132]: Careers,
+        - listitem [ref=e133]: Sustainability,
+        - listitem [ref=e134]: MMT Foundation,
+        - listitem [ref=e135]: Legal Notices,
+        - listitem [ref=e136]: CSR Policy & Committee,
+        - listitem [ref=e137]: myBiz for Corporate Travel,
+        - listitem [ref=e138]: myPartner - Travel Agent Portal,
+        - listitem [ref=e139]: List your hotel,
+        - listitem [ref=e140]: Partners- Redbus,
+        - listitem [ref=e141]: Partners- Goibibo,
+        - listitem [ref=e142]: Advertise with Us,
+        - listitem [ref=e143]: Holiday-Franchise,
+        - listitem [ref=e144]: Partners- BookMyForex,
+        - listitem [ref=e145]: RedBus Ferry Malaysia,
+        - listitem [ref=e146]: RedBus Ferry Singapore,
+        - listitem [ref=e147]: redBus Vietnam,
+        - listitem [ref=e148]: redBus Cambodia,
+        - listitem [ref=e149]: redBus Columbia,
+        - listitem [ref=e150]: redBus Peru,
+        - listitem [ref=e151]: redBus Indonesia,
+        - listitem [ref=e152]: Things to Do in Malaysia,
+        - listitem [ref=e153]: Things to Do in Singapore
+      - paragraph [ref=e154]: Quick Links
+      - list [ref=e155]:
+        - listitem [ref=e156]: Delhi Chennai Flights,
+        - listitem [ref=e157]: Delhi Mumbai Flights,
+        - listitem [ref=e158]: Delhi Goa Flights,
+        - listitem [ref=e159]: Chennai Mumbai flights,
+        - listitem [ref=e160]: Mumbai Hyderabad flights,
+        - listitem [ref=e161]: Kolkata to Rupsi Flights,
+        - listitem [ref=e162]: Rupsi to Guwahati Flights,
+        - listitem [ref=e163]: Pasighat to Guwahati Flights,
+        - listitem [ref=e164]: Delhi to Khajuraho Flights,
+        - listitem [ref=e165]: Cochin to Agatti Island Flights,
+        - listitem [ref=e166]: Hotels in Delhi,
+        - listitem [ref=e167]: Hotels in Mumbai,
+        - listitem [ref=e168]: Hotels In Goa,
+        - listitem [ref=e169]: Hotels In Jaipur,
+        - listitem [ref=e170]: Hotels In Ooty,
+        - listitem [ref=e171]: Hotels In Udaipur,
+        - listitem [ref=e172]: Hotels in Puri,
+        - listitem [ref=e173]: Hotels In North Goa,
+        - listitem [ref=e174]: Hotels In Rishikesh,
+        - listitem [ref=e175]: Honeymoon Packages,
+        - listitem [ref=e176]: Kerala Packages,
+        - listitem [ref=e177]: Kashmir Packages,
+        - listitem [ref=e178]: Ladakh Packages,
+        - listitem [ref=e179]: Goa Packages,
+        - listitem [ref=e180]: Thailand Packages,
+        - listitem [ref=e181]: Sri Lanka Visa,
+        - listitem [ref=e182]: Thailand Visa,
+        - listitem [ref=e183]: Explore Goa,
+        - listitem [ref=e184]: Explore Manali,
+        - listitem [ref=e185]: Explore Shimla,
+        - listitem [ref=e186]: Explore Jaipur,
+        - listitem [ref=e187]: Explore Srinagar
+      - paragraph [ref=e188]: About the Site
+      - list [ref=e189]:
+        - listitem [ref=e190]: Customer Support,
+        - listitem [ref=e191]: Payment Security,
+        - listitem [ref=e192]: Privacy Policy,
+        - listitem [ref=e193]: Cookie Policy,
+        - listitem [ref=e194]: User Agreement,
+        - listitem [ref=e195]: Terms of Service,
+        - listitem [ref=e196]: Franchise Offices,
+        - listitem [ref=e197]: Make A Payment,
+        - listitem [ref=e198]: Work From Home,
+        - listitem [ref=e199]: Escalation Channel,
+        - listitem [ref=e200]: Report Security Issues
+      - paragraph [ref=e201]: Important Links
+      - list [ref=e202]:
+        - listitem [ref=e203]: Cheap Flights,
+        - listitem [ref=e204]: Flight Status,
+        - listitem [ref=e205]: Kumbh Mela,
+        - listitem [ref=e206]: Domestic Airlines,
+        - listitem [ref=e207]: International Airlines,
+        - listitem [ref=e208]: Indigo,
+        - listitem [ref=e209]: Spicejet,
+        - listitem [ref=e210]: Air Asia,
+        - listitem [ref=e211]: Air India,
+        - listitem [ref=e212]: Indian Railways,
+        - listitem [ref=e213]: Trip Ideas,
+        - listitem [ref=e214]: Beaches,
+        - listitem [ref=e215]: Honeymoon Destinations,
+        - listitem [ref=e216]: Romantic Destinations,
+        - listitem [ref=e217]: Popular Destinations,
+        - listitem [ref=e218]: Resorts In Udaipur,
+        - listitem [ref=e219]: Resorts In Munnar,
+        - listitem [ref=e220]: Villas In Lonavala,
+        - listitem [ref=e221]: Hotels in Thailand,
+        - listitem [ref=e222]: Villas In Goa,
+        - listitem [ref=e223]: Domestic Flight Offers,
+        - listitem [ref=e224]: International Flight Offers,
+        - listitem [ref=e225]: UAE Flight Offers,
+        - listitem [ref=e226]: USA,
+        - listitem [ref=e227]: UAE,
+        - listitem [ref=e228]: Saudi Arabia,
+        - listitem [ref=e229]: UK,
+        - listitem [ref=e230]: Oman
+      - paragraph [ref=e231]: Corporate Travel
+      - list [ref=e232]:
+        - listitem [ref=e233]: Business Travel,
+        - listitem [ref=e234]: Corporate Travel,
+        - listitem [ref=e235]: Corporate Travel Management,
+        - listitem [ref=e236]: Corporate Travel Solution,
+        - listitem [ref=e237]: Corporate Hotel Booking,
+        - listitem [ref=e238]: Corporate Flight Booking,
+        - listitem [ref=e239]: Expense Management,
+        - listitem [ref=e240]: Corporate Expense Management,
+        - listitem [ref=e241]: GST on Hotel Rooms,
+        - listitem [ref=e242]: GST on Flight Tickets,
+        - listitem [ref=e243]: Business Travel for SME,
+        - listitem [ref=e244]: GST Invoice for International flights,
+        - listitem [ref=e245]: GST Invoice for Bus,
+        - listitem [ref=e246]: GST on Train Tickets,
+        - listitem [ref=e247]: T&E (Travel & Expense),
+        - listitem [ref=e248]: myBiz - Best Business Travel Platform,
+        - listitem [ref=e249]: GST Invoice for Corporate Travel,
+        - listitem [ref=e250]: myBiz for Small Business,
+        - listitem [ref=e251]: Free cancellation on International Flights
+      - paragraph [ref=e252]: Product Offering
+      - list [ref=e253]:
+        - listitem [ref=e254]: Flights,
+        - listitem [ref=e255]: International Flights,
+        - listitem [ref=e256]: Charter Flights,
+        - listitem [ref=e257]: Hotels,
+        - listitem [ref=e258]: International Hotels,
+        - listitem [ref=e259]: Apply Visa Online,
+        - listitem [ref=e260]: Homestays and Villas,
+        - listitem [ref=e261]: Activities,
+        - listitem [ref=e262]: Holidays In India,
+        - listitem [ref=e263]: International Holidays,
+        - listitem [ref=e264]: Book Hotels From UAE,
+        - listitem [ref=e265]: Book Online Cabs,
+        - listitem [ref=e266]: Book Bus Tickets,
+        - listitem [ref=e267]: Book Train Tickets,
+        - listitem [ref=e268]: Cheap Tickets to India,
+        - listitem [ref=e269]: Book Flights From US,
+        - listitem [ref=e270]: Book Flights From UAE,
+        - listitem [ref=e271]: Trip Planner,
+        - listitem [ref=e272]: Forex Card,
+        - listitem [ref=e273]: Buy Foreign Currency,
+        - listitem [ref=e274]: Travel Insurance,
+        - listitem [ref=e275]: Travel Insurance Thailand,
+        - listitem [ref=e276]: Travel Insurance For UAE,
+        - listitem [ref=e277]: Travel Insurance For Indonesia,
+        - listitem [ref=e278]: Travel Insurance For Vietnam,
+        - listitem [ref=e279]: Travel Insurance For Europe,
+        - listitem [ref=e280]: Travel Insurance For USA,
+        - listitem [ref=e281]: Travel Insurance for Singapore,
+        - listitem [ref=e282]: Travel Insurance for Malaysia,
+        - listitem [ref=e283]: Travel Insurance for Sri Lanka,
+        - listitem [ref=e284]: Travel Insurance for United Kingdom,
+        - listitem [ref=e285]: Travel Insurance for Canada,
+        - listitem [ref=e286]: Gift Cards,
+        - listitem [ref=e287]: Gift,
+        - listitem [ref=e288]: Wedding Gift,
+        - listitem [ref=e289]: Anniversary Gift,
+        - listitem [ref=e290]: Birthday Gift,
+        - listitem [ref=e291]: Diwali Gift,
+        - listitem [ref=e292]: Valentines Gift,
+        - listitem [ref=e293]: Farewell Gift,
+        - listitem [ref=e294]: Christmas Gift,
+        - listitem [ref=e295]: New Year Gift,
+        - listitem [ref=e296]: Trip Ideas,
+        - listitem [ref=e297]: Travel Blog,
+        - listitem [ref=e298]: PNR Status,
+        - listitem [ref=e299]: MakeMyTrip Advertising Solutions,
+        - listitem [ref=e300]: One Way Cab,
+        - listitem [ref=e301]: Travel Credit Card
+      - paragraph [ref=e302]: Top Hotels in India
+      - list [ref=e303]:
+        - listitem [ref=e304]: Fairmont Jaipur,
+        - listitem [ref=e305]: St Regis Goa,
+        - listitem [ref=e306]: Six Senses Fort Barwara,
+        - listitem [ref=e307]: W Goa,
+        - listitem [ref=e308]: Grand Hyatt Goa,
+        - listitem [ref=e309]: Shangri-La Bangalore,
+        - listitem [ref=e310]: The St Regis Mumbai,
+        - listitem [ref=e311]: Taj Rishikesh,
+        - listitem [ref=e312]: Grand Hyatt Mumbai,
+        - listitem [ref=e313]: Le Meridien Delhi,
+        - listitem [ref=e314]: Rambagh Palace Jaipur,
+        - listitem [ref=e315]: Leela Palace Chennai,
+        - listitem [ref=e316]: The Leela Palace Udaipur,
+        - listitem [ref=e317]: Taj Lake Palace Udaipur,
+        - listitem [ref=e318]: Jw Marriott Chandigarh,
+        - listitem [ref=e319]: Alila Diwa Goa,
+        - listitem [ref=e320]: Le Meridien Goa,
+        - listitem [ref=e321]: Taj Lands End Mumbai,
+        - listitem [ref=e322]: Itc Grand Chola Chennai,
+        - listitem [ref=e323]: Itc Maratha Mumbai,
+        - listitem [ref=e324]: Oberoi Udaivilas,
+        - listitem [ref=e325]: Jai Mahal Palace Jaipur,
+        - listitem [ref=e326]: Taj Mahal Tower Mumbai,
+        - listitem [ref=e327]: Marriott Suites Pune,
+        - listitem [ref=e328]: Park Hyatt Chennai,
+        - listitem [ref=e329]: The Leela Palace Jaipur,
+        - listitem [ref=e330]: Jw Marriott Mumbai Sahar,
+        - listitem [ref=e331]: Jw Marriott Mumbai Juhu,
+        - listitem [ref=e332]: The Ritz Carlton Bengaluru,
+        - listitem [ref=e333]: The Oberoi New Delhi,
+        - listitem [ref=e334]: Taj Resort & Convention Centre Goa,
+        - listitem [ref=e335]: Taj Bengal Kolkata,
+        - listitem [ref=e336]: Taj Coromandel Chennai,
+        - listitem [ref=e337]: The Oberoi Gurgaon,
+        - listitem [ref=e338]: The Westin Goa,
+        - listitem [ref=e339]: Jw Marriott Hotel Pune,
+        - listitem [ref=e340]: The Leela Palace New Delhi,
+        - listitem [ref=e341]: Taj West End Bengaluru,
+        - listitem [ref=e342]: The Taj Mahal Palace Mumbai,
+        - listitem [ref=e343]: Best Hotels in India
+      - paragraph [ref=e344]: Top International hotels
+      - list [ref=e345]:
+        - listitem [ref=e346]: Adaaran Club Rannalhi,
+        - listitem [ref=e347]: Marina Bay Sands Singapore,
+        - listitem [ref=e348]: Coco Bodu Hithi,
+        - listitem [ref=e349]: Taj Dubai,
+        - listitem [ref=e350]: Atlantis Hotel Dubai,
+        - listitem [ref=e351]: Amari Phuket,
+        - listitem [ref=e352]: Jw Marriott Dubai,
+        - listitem [ref=e353]: Armani Hotel Dubai,
+        - listitem [ref=e354]: Grand Hyatt Dubai,
+        - listitem [ref=e355]: Saii Lagoon Maldives,
+        - listitem [ref=e356]: Gevora Hotel Dubai,
+        - listitem [ref=e357]: Hyatt Regency Dubai,
+        - listitem [ref=e358]: Pan Pacific Singapore,
+        - listitem [ref=e359]: The Palm Dubai,
+        - listitem [ref=e360]: Caesars Palace,
+        - listitem [ref=e361]: Baiyoke Sky Hotel,
+        - listitem [ref=e362]: Centara Pattaya Hotel,
+        - listitem [ref=e363]: Embudu Village,
+        - listitem [ref=e364]: Orchard Hotel Singapore,
+        - listitem [ref=e365]: Reethi Beach Resort,
+        - listitem [ref=e366]: Ambassador Hotel Bangkok,
+        - listitem [ref=e367]: Dusit Thani Pattaya,
+        - listitem [ref=e368]: Shangri La Singapore,
+        - listitem [ref=e369]: Sunbeam Hotel Pattaya,
+        - listitem [ref=e370]: Taj Samudra Colombo,
+        - listitem [ref=e371]: Bangkok Palace Hotel,
+        - listitem [ref=e372]: Hilton Pattaya,
+        - listitem [ref=e373]: Novotel Phuket Resort,
+        - listitem [ref=e374]: Taj Exotica Resort Maldives,
+        - listitem [ref=e375]: Village Hotel Bugis,
+        - listitem [ref=e376]: Avani Atrium Bangkok,
+        - listitem [ref=e377]: The Plaza New York,
+        - listitem [ref=e378]: Village Hotel Albert Court,
+        - listitem [ref=e379]: Amari Pattaya
+      - paragraph [ref=e380]: Visa Offerings
+      - list [ref=e381]:
+        - listitem [ref=e382]: Australia Visa,
+        - listitem [ref=e383]: Austria Visa,
+        - listitem [ref=e384]: Azerbaijan Visa,
+        - listitem [ref=e385]: Bangladesh Visa,
+        - listitem [ref=e386]: Bahrain Visa,
+        - listitem [ref=e387]: Cambodia Visa,
+        - listitem [ref=e388]: China Visa,
+        - listitem [ref=e389]: Czech Republic Visa,
+        - listitem [ref=e390]: Dubai - UAE Visa,
+        - listitem [ref=e391]: Egypt Visa,
+        - listitem [ref=e392]: Finland Visa,
+        - listitem [ref=e393]: France Visa,
+        - listitem [ref=e394]: Georgia Visa,
+        - listitem [ref=e395]: Germany Visa,
+        - listitem [ref=e396]: Greece Visa,
+        - listitem [ref=e397]: Hong Kong Visa,
+        - listitem [ref=e398]: Iceland Visa,
+        - listitem [ref=e399]: Indonesia Visa,
+        - listitem [ref=e400]: Ireland Visa,
+        - listitem [ref=e401]: Italy Visa,
+        - listitem [ref=e402]: Japan Visa,
+        - listitem [ref=e403]: Kenya Visa,
+        - listitem [ref=e404]: Malaysia Visa,
+        - listitem [ref=e405]: Morocco Visa,
+        - listitem [ref=e406]: Netherlands Visa,
+        - listitem [ref=e407]: New Zealand Visa,
+        - listitem [ref=e408]: Norway Visa,
+        - listitem [ref=e409]: Portugal Visa,
+        - listitem [ref=e410]: Qatar Visa,
+        - listitem [ref=e411]: Russia Visa,
+        - listitem [ref=e412]: Singapore Visa,
+        - listitem [ref=e413]: South Africa Visa,
+        - listitem [ref=e414]: South Korea Visa,
+        - listitem [ref=e415]: Spain Visa,
+        - listitem [ref=e416]: Sri Lanka Visa,
+        - listitem [ref=e417]: Sweden Visa,
+        - listitem [ref=e418]: Switzerland Visa,
+        - listitem [ref=e419]: Thailand Visa,
+        - listitem [ref=e420]: United Kingdom - UK Visa,
+        - listitem [ref=e421]: Uzbekistan Visa,
+        - listitem [ref=e422]: Vietnam Visa,
+        - listitem [ref=e423]: Mongolia Visa,
+        - listitem [ref=e424]: Zambia Visa
+      - paragraph [ref=e425]: Book Hotels in India from Top Destinations
+      - list [ref=e426]:
+        - listitem [ref=e427]: Hotels in Jaipur,
+        - listitem [ref=e428]: Hotels in Goa,
+        - listitem [ref=e429]: Hotels in Delhi,
+        - listitem [ref=e430]: Hotels in Udaipur,
+        - listitem [ref=e431]: Hotels in Gurgaon,
+        - listitem [ref=e432]: Hotels in Mumbai,
+        - listitem [ref=e433]: Hotels in Bangalore,
+        - listitem [ref=e434]: Hotels in Rishikesh,
+        - listitem [ref=e435]: Hotels in Agra,
+        - listitem [ref=e436]: Hotels in Chennai,
+        - listitem [ref=e437]: Hotels in Kasauli,
+        - listitem [ref=e438]: Hotels in Kolkata,
+        - listitem [ref=e439]: Hotels in Pune,
+        - listitem [ref=e440]: Hotels in Manali,
+        - listitem [ref=e441]: Hotels in Lonavala,
+        - listitem [ref=e442]: Hotels in Shimla,
+        - listitem [ref=e443]: Hotels in Munnar,
+        - listitem [ref=e444]: Hotels in Ayodhya,
+        - listitem [ref=e445]: Hotels in Gulmarg,
+        - listitem [ref=e446]: Hotels in Leh,
+        - listitem [ref=e447]: Hotels in Hyderabad
+    - article [ref=e451]:
+      - generic [ref=e452]:
+        - heading "Why MakeMyTrip?" [level=2] [ref=e453]
+        - generic [ref=e456]: Established in 2000, MakeMyTrip has since positioned itself as one of the leading companies, providing great offers, competitive airfares, exclusive discounts, and a seamless online booking experience to many of its customers. The experience of booking your flight tickets, hotel stay, and holiday package through our desktop site or mobile app can be done with complete ease and no hassles at all. We also deliver amazing offers, such as Instant Discounts, Fare Calendar, MyRewardsProgram, MyWallet, and many more while updating them from time to time to better suit our customers’ evolving needs and demands.
+      - generic [ref=e457]:
+        - heading "Booking Flights with MakeMyTrip" [level=2] [ref=e458]
+        - generic [ref=e461]: At MakeMyTrip, you can find the best of deals and cheap air tickets to any place you want by booking your tickets on our website or app. Being India’s leading website for hotel, flight, and holiday bookings, MakeMyTrip helps you book flight tickets that are affordable and customized to your convenience. With customer satisfaction being our ultimate goal, we also have a 24/7 dedicated helpline to cater to our customer’s queries and concerns. Serving over 5 million happy customers, we at MakeMyTrip are glad to fulfill the dreams of folks who need a quick and easy means to find air tickets. You can get a hold of the cheapest flight of your choice today while also enjoying the other available options for your travel needs with us.
+      - generic [ref=e462]:
+        - heading "Domestic Flights with MakeMyTrip" [level=2] [ref=e463]
+        - generic [ref=e466]: MakeMyTrip is India's leading player for flight bookings. With the cheapest fare guarantee, experience great value at the lowest price. Instant notifications ensure current flight status, instant fare drops, amazing discounts, instant refunds and rebook options, price comparisons and many more interesting features.
+    - generic [ref=e468]:
+      - generic [ref=e469]:
+        - link [ref=e470] [cursor=pointer]:
+          - /url: https://www.instagram.com/makemytrip/
+        - link [ref=e472] [cursor=pointer]:
+          - /url: https://x.com/makemytrip
+        - link [ref=e474] [cursor=pointer]:
+          - /url: https://in.linkedin.com/company/makemytrip.com?open=outside
+        - link [ref=e476] [cursor=pointer]:
+          - /url: https://www.facebook.com/makemytrip/
+      - paragraph [ref=e479]: © 2026 MAKEMYTRIP PVT. LTD.
